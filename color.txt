@@ -1,1 +1,2 @@
 red ,blue ,white
+红色 蓝色 白色 
